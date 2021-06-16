@@ -1,5 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 
+logo: "https://aue4joy.github.io/Aue.svg"
+
 collections:
   articles:
     permalink: "/:collection/:path/"
