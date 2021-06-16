@@ -1,6 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
 
-logo: "https://aue4joy.github.io/Aue.svg"
+logo: "Aue.svg"
 
 collections:
   articles:
